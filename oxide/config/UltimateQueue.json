@@ -1,0 +1,20 @@
+{
+  "Auth Level required to skip queue no matter what (3 = none, 2 = admin, 1 = moderator)": 1,
+  "Enable first connect skip queue?": false,
+  "Enable Queue Capacity?": true,
+  "If a player has one of the listed permissions, they are affected by queue capacity.": [
+    "ultimatequeue.default"
+  ],
+  "Queue capacity": 100,
+  "Enable Queue Holding?": true,
+  "If a player has one of the listed permissions, their queue spot is held on disconnect": [
+    "ultimatequeue.reconnect"
+  ],
+  "Number of minutes to allow a user to reconnect without a queue": 20,
+  "Enable Queue Skipping?": true,
+  "If a player has one of the listed permissions, they will skip the queue": [
+    "ultimatequeue.vip"
+  ],
+  "When a user joins for the first time, message the new user. Only works with first connect queue skip enabled": false,
+  "When a user joins for the first time, announce it to all users. Only works with first connect queue skip enabled": false
+}

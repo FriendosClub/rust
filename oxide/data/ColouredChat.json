@@ -1,0 +1,25 @@
+{
+  "AllColourData": {
+    "moderator.on": {
+      "Name Colour": "#a3e332",
+      "Name Gradient Args": null,
+      "Message Colour": "",
+      "Message Gradient Args": null,
+      "Last active": 0
+    },
+    "developer.on": {
+      "Name Colour": "#a3e332",
+      "Name Gradient Args": null,
+      "Message Colour": "",
+      "Message Gradient Args": null,
+      "Last active": 0
+    },
+    "admin.on": {
+      "Name Colour": "#a3e332",
+      "Name Gradient Args": null,
+      "Message Colour": "",
+      "Message Gradient Args": null,
+      "Last active": 0
+    }
+  }
+}

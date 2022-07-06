@@ -1,0 +1,36 @@
+{
+  "Advanced - Regex to use": "",
+  "Advanced - Use REGEX": false,
+  "Clear Offense After (0 - Disabled, 1 - All Kick/Mute/ban, 2 - Kick,  3 - Mute,  4 - Ban": 0,
+  "Exclude Team Chat": true,
+  "Offenses - Broadcast Ban": true,
+  "Offenses - Broadcast kick": true,
+  "Offenses - Count To Ban": 3,
+  "Offenses - Count To Kick": 2,
+  "Offenses - Count To Mute": 1,
+  "Offenses - Time To Mute": 600,
+  "Time to Ban in Minutes": 1440,
+  "Warn Players with offense amount": false,
+  "Whole Message Filter - Enabled": false,
+  "Word Filter - Custom Replacement": "Unicorn",
+  "Word Filter - Enabled": true,
+  "Word Filter - Replacement": "*",
+  "Word Filter - Use Custom Replacement": false,
+  "Word Filter List": [
+    "nigger",
+    "nig",
+    "nigga",
+    "faggot",
+    "fag",
+    "tranny",
+    "troon",
+    "trannie",
+    "kike",
+    "spic",
+    "coon"
+  ],
+  "Word To White List": [
+    "night",
+    "raccoon"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "Permission -> Settings": {
+    "metabolism.staff.disabled": {
+      "Water on respawn": 250.0,
+      "Calories on respawn": 500.0,
+      "Health on respawn": 100.0
+    },
+    "metabolism.vip.disabled": {
+      "Water on respawn": 233.0,
+      "Calories on respawn": 385.0,
+      "Health on respawn": 82.0
+    },
+    "metabolism.default": {
+      "Water on respawn": 190.0,
+      "Calories on respawn": 292.0,
+      "Health on respawn": 68.0
+    }
+  }
+}

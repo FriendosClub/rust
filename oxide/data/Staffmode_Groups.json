@@ -1,0 +1,25 @@
+{
+  "Groups": {
+    "Moderators": {
+      "GroupName": "Moderators",
+      "AuthLevel": 0,
+      "OffDutyGroup": "moderator.off",
+      "OnDutyGroup": "moderator.on",
+      "PermissionNode": null
+    },
+    "Developers": {
+      "GroupName": "Developers",
+      "AuthLevel": 0,
+      "OffDutyGroup": "developer.off",
+      "OnDutyGroup": "developer.on",
+      "PermissionNode": null
+    },
+    "Admins": {
+      "GroupName": "Admins",
+      "AuthLevel": 0,
+      "OffDutyGroup": "admin.off",
+      "OnDutyGroup": "admin.on",
+      "PermissionNode": null
+    }
+  }
+}

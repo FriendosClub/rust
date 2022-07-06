@@ -1,0 +1,138 @@
+{
+  "_kits": {
+    "Starter": {
+      "Name": "Starter",
+      "Description": "Mats & deployables for a basic 2x1 (with an airlock)",
+      "RequiredPermission": "kits.starter",
+      "MaximumUses": 3,
+      "RequiredAuth": 0,
+      "Cooldown": 1800,
+      "Cost": 0,
+      "IsHidden": false,
+      "CopyPasteFile": "",
+      "KitImage": "https://files.catbox.moe/8sw4hj.png",
+      "MainItems": [
+        {
+          "Shortname": "wood",
+          "Skin": 0,
+          "Amount": 2000,
+          "Condition": 0.0,
+          "MaxCondition": 0.0,
+          "Ammo": 0,
+          "Ammotype": null,
+          "Position": 0,
+          "Frequency": -1,
+          "BlueprintShortname": null,
+          "Contents": null
+        },
+        {
+          "Shortname": "stones",
+          "Skin": 0,
+          "Amount": 2000,
+          "Condition": 0.0,
+          "MaxCondition": 0.0,
+          "Ammo": 0,
+          "Ammotype": null,
+          "Position": 1,
+          "Frequency": -1,
+          "BlueprintShortname": null,
+          "Contents": null
+        },
+        {
+          "Shortname": "stones",
+          "Skin": 0,
+          "Amount": 2000,
+          "Condition": 0.0,
+          "MaxCondition": 0.0,
+          "Ammo": 0,
+          "Ammotype": null,
+          "Position": 2,
+          "Frequency": -1,
+          "BlueprintShortname": null,
+          "Contents": null
+        }
+      ],
+      "WearItems": [],
+      "BeltItems": [
+        {
+          "Shortname": "building.planner",
+          "Skin": 0,
+          "Amount": 1,
+          "Condition": 0.0,
+          "MaxCondition": 0.0,
+          "Ammo": 0,
+          "Ammotype": null,
+          "Position": 0,
+          "Frequency": -1,
+          "BlueprintShortname": null,
+          "Contents": null
+        },
+        {
+          "Shortname": "hammer",
+          "Skin": 0,
+          "Amount": 1,
+          "Condition": 0.0,
+          "MaxCondition": 0.0,
+          "Ammo": 0,
+          "Ammotype": null,
+          "Position": 1,
+          "Frequency": -1,
+          "BlueprintShortname": null,
+          "Contents": null
+        },
+        {
+          "Shortname": "cupboard.tool",
+          "Skin": 0,
+          "Amount": 1,
+          "Condition": 0.0,
+          "MaxCondition": 0.0,
+          "Ammo": 0,
+          "Ammotype": null,
+          "Position": 2,
+          "Frequency": -1,
+          "BlueprintShortname": null,
+          "Contents": null
+        },
+        {
+          "Shortname": "lock.key",
+          "Skin": 0,
+          "Amount": 1,
+          "Condition": 0.0,
+          "MaxCondition": 0.0,
+          "Ammo": 0,
+          "Ammotype": null,
+          "Position": 4,
+          "Frequency": -1,
+          "BlueprintShortname": null,
+          "Contents": null
+        },
+        {
+          "Shortname": "door.hinged.wood",
+          "Skin": 809253752,
+          "Amount": 1,
+          "Condition": 100.0,
+          "MaxCondition": 100.0,
+          "Ammo": 0,
+          "Ammotype": null,
+          "Position": 3,
+          "Frequency": -1,
+          "BlueprintShortname": null,
+          "Contents": null
+        },
+        {
+          "Shortname": "box.wooden.large",
+          "Skin": 1277330503,
+          "Amount": 1,
+          "Condition": 100.0,
+          "MaxCondition": 100.0,
+          "Ammo": 0,
+          "Ammotype": null,
+          "Position": 5,
+          "Frequency": -1,
+          "BlueprintShortname": null,
+          "Contents": null
+        }
+      ]
+    }
+  }
+}

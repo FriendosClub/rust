@@ -1,0 +1,23 @@
+{
+  "Text Display Frequency (Seconds)": 2.0,
+  "Enable Messages Cyclicity": false,
+  "Use Random Cyclicity (Instead of sequential)": false,
+  "Cycle Messages Every ~N Seconds": 3.0,
+  "Messages": [
+    {
+      "Top Status": "<color=#E8DCD3>friendos.club</color>",
+      "Bottom Status": ""
+    }
+  ],
+  "Enable Queue Messages": true,
+  "Queue Messages": [
+    {
+      "Top Status": "<color=#E8DCD3>friendos.club</color>",
+      "Bottom Status": "<color=#9cf>{AHEAD} players ahead of you.</color>"
+    }
+  ],
+  "Last Message (When entering game)": {
+    "Top Status": "<color=#E8DCD3>friendos.club</color>",
+    "Bottom Status": ""
+  }
+}

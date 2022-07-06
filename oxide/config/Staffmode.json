@@ -1,0 +1,22 @@
+{
+  "ConfigVersion": "1.2.0",
+  "Debug": {
+    "CheckGroupDataOnLoad": false,
+    "Dev": false
+  },
+  "GameplaySettings": {
+    "CanAttack": true,
+    "CanBeTargetedByHeliAndTurrets": false,
+    "CanLootPlayer": true,
+    "ShowMessages": true
+  },
+  "Settings": {
+    "AnnounceOnToggle": false,
+    "Command": "staff",
+    "DisconnectOnToggle": false,
+    "EditPermission": "staffmode.canedit",
+    "EnableGroupToggle": true,
+    "LogOnToggle": true,
+    "PluginPrefix": "<color=orange>[Staff Mode]</color>"
+  }
+}

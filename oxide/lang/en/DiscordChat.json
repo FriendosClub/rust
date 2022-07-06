@@ -1,0 +1,18 @@
+{
+  "V1.Discord.NotLinkedError": "You're not allowed to chat with the server unless you are linked.",
+  "V1.Discord.JoinLeave.ConnectedMessage": ":white_check_mark: **{1} joined.**",
+  "V1.Discord.JoinLeave.DisconnectedMessage": ":x: **{1} disconnected.**",
+  "V1.Discord.OnlineOffline.OnlineMessage": ":green_circle: The server is now online",
+  "V1.Discord.OnlineOffline.OfflineMessage": ":red_circle: The server has shut down",
+  "V1.Discord.ChatChannel.Message": "**{1}** {2}",
+  "V1.Discord.ChatChannel.LinkedMessage": "**{1}** {2}",
+  "V1.Discord.ChatChannel.UnlinkedMessage": "**{1}** {3}",
+  "V1.Discord.TeamChannel.Message": "**{1}** {2}",
+  "V1.Discord.CardsChannel.Message": "**{1}** {2}",
+  "V1.Discord.AdminChat.Message": "**{1}** {2}",
+  "V1.Discord.AdminChat.Permission": ":no_entry: You're not allowed to use admin chat channel because you do not have permission.",
+  "V1.Server.DiscordTag": "[#5f79d6][Discord][/#]",
+  "V1.Server.UnlinkedMessage": "{0} [#5f79d6]{1}[/#]: {3}",
+  "V1.Server.LinkedMessage": "{0} [#5f79d6]{1}[/#]: {2}",
+  "V1.Server.ClanTag": "[{0}] "
+}

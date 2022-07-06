@@ -1,0 +1,13 @@
+{
+  "Code Generation": "Your code is [#EB459E]{0}[/#].\nJoin our Discord server here: [#FEE75C]https://discord.io/friendos[/#]\nAfter joining, PM the code to [#ED4245]@friendos.club rust#9228[/#]",
+  "Code Expired": "[#ED4245]Your code has Expired![/#]",
+  "Authenticated": "Thank you for authenticating your account",
+  "Game-Deauthenticated": "Successfully deauthenticated your account",
+  "Discord-Deauthenticated": "You have been deauthenticated from {0}",
+  "Already Authenticated": "[#ED4245]You have already authenticated your account.[/#]",
+  "Not Authenticated": "You are not authenticated",
+  "Group Revoked": "Your '{0}' Group has been revoked! Join the server back to achieve it",
+  "Group Granted": "Granted '{0}' Group and the discord roles for joining {1} back",
+  "Unable to find code": "Sorry, we couldn't find your code, please try to authenticate again, If you haven't generated a code, please type /auth in-game",
+  "No Permission": "You dont have permission to use this command"
+}
