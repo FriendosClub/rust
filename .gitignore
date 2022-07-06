@@ -1,0 +1,76 @@
+## Set up .gitignore as a whitelist
+*
+!*/
+!.gitignore
+!.gitattributes
+
+
+
+## Add README and LICENSE
+!README.md
+!LICENSE.md
+
+
+## add server cfg files
+!server/rust/server.cfg
+!server/rust/users.cfg
+
+
+## add oxide plugin configs
+#!oxide/config/AdminRadar.json  # WARNING: contains Discord WebHook URL
+!oxide/config/AdvertMessages.json
+#!oxide/config/AutoStashTraps.json  # WARNING: contains Discord WebHook URL
+#!oxide/config/BetterChat.json  # no changes from default
+!oxide/config/BetterChatFilter.json
+!oxide/config/BetterLoot.json
+!oxide/config/BlueprintManager.json
+#!oxide/config/BuildingWorkbench.json  # no changes from default
+!oxide/config/CarSpawnSettings.json
+!oxide/config/ClearNight.json
+!oxide/config/ColouredChat.json
+!oxide/config/CraftingController.json
+#!oxide/config/DiscordAuth.json  # WARNING: contains Discord BOT TOKEN
+#!oxide/config/DiscordChat.json  # WARNING: contains Discord BOT TOKEN
+#!oxide/config/DiscordMessages.json  # WARNING: contains Discord WebHook URL
+!oxide/config/EventRandomizer.json
+!oxide/config/FancyDrop.json
+#!oxide/config/FurnaceSplitter.json  # no change from default
+!oxide/config/GatherManager.json
+!oxide/config/Godmode.json
+!oxide/config/GodmodeIndicator.json
+#!oxide/config/HelpText.json  # no change from default
+#!oxide/config/ImageLibrary.json   # WARNING: contains Steam API key
+#!oxide/config/Kits.json  # no changes from default
+!oxide/config/LoadingMessages.json
+!oxide/config/Metabolism.json
+#!oxide/config/NightVision.json  # no changes from default
+!oxide/config/Prod.json
+!oxide/config/QuickSmelt.json
+!oxide/config/RecyclerSpeed.json
+#!oxide/config/Rustcord.json  # WARNING: contains Discord BOT TOKEN
+#!oxide/config/RustIO.json  # WARNING: contains playrust.io API key
+!oxide/config/ScientistNames.json
+#!oxide/config/ServerArmour.json  # WARNING: contains ServerArmour API key; contains Discord WebHook URL
+#!oxide/config/SkinBox.json  # WARNING: contains Steam API key
+!oxide/config/StackMultiplier.json
+!oxide/config/Staffmode.json
+#!oxide/config/StashWarning.json  # WARNING: contains Discord WebHook URL
+!oxide/config/TimeOfDay.json
+!oxide/config/UltimateQueue.json
+!oxide/config/Vanish.json
+
+
+## add oxide plugin data files
+!oxide/data/BetterLoot/Blacklist.json
+!oxide/data/BetterLoot/LootTables.json
+#!oxide/data/BetterLoot/NamesList.json  # no changes from default
+!oxide/data/Kits/kits_data.json
+!oxide/data/BetterChat.json
+!oxide/data/ColouredChat.json
+!oxide/data/oxide.groups.data  # stored in weird binary format
+!oxide/data/Staffmode_Groups.json
+
+
+## add oxide plugin language files
+!oxide/lang/en/DiscordAuth.json
+!oxide/lang/en/DiscordChat.json
